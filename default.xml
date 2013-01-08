@@ -114,7 +114,7 @@
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/liblzf" name="CyanogenMod/android_external_liblzf" />
   <project path="external/libmtp" name="CyanogenMod/android_external_libmtp" />
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
+  <project path="external/libncurses" name="ParanoidZTE/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
   <project path="external/libnl-headers" name="CyanogenMod/android_external_libnl-headers" />
   <project path="external/libpcap" name="CyanogenMod/android_external_libpcap" />
@@ -196,7 +196,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" />
+  <project path="frameworks/av" name="ParanoidZTE/android_frameworks_av" />
   <project path="frameworks/base" name="ParanoidZTE/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
@@ -205,7 +205,7 @@
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
+  <project path="frameworks/native" name="ParanoidZTE/android_frameworks_native" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="frameworks/opt/inputmethodcommon" name="CyanogenMod/android_frameworks_opt_inputmethodcommon" />
@@ -225,7 +225,7 @@
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
-  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
+  <project path="hardware/qcom/media" name="ParanoidZTE/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
@@ -260,7 +260,7 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/ParanoidWallpapers" name="ParanoidAndroid/android_packages_apps_ParanoidWallpapers" />
-  <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
+  <project path="packages/apps/Phone" name="ParanoidZTE/android_packages_apps_Phone" />
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
