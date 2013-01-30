@@ -193,7 +193,7 @@
   <project path="external/webp" name="CyanogenMod/android_external_webp" remote="github" revision="cm-10.1" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" remote="github" revision="cm-10.1" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="github" revision="cm-10.1" />
-  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="github" revision="cm-10.1" />
+  <project path="external/wpa_supplicant_8" name="ParanoidZTE/android_external_wpa_supplicant_8" remote="github" revision="pa-cm-10.1" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" remote="github" revision="cm-10.1" />
   <project path="external/xmp_toolkit" name="CyanogenMod/android_external_xmp_toolkit" remote="github" revision="cm-10.1" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" revision="cm-10.1" />
