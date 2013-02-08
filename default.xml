@@ -51,7 +51,7 @@
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="cm-10.1" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" remote="github" revision="cm-10.1" />
   <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" remote="github" revision="cm-10.1" />
-  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" />
+  <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" remote="github" revision="cm-10.1" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" remote="github" revision="cm-10.1" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="cm-10.1"/>
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" remote="github" revision="cm-10.1" />
