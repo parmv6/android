@@ -57,7 +57,7 @@
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" remote="github" revision="cm-10.1" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" remote="github" revision="cm-10.1" />
   <project path="external/checkpolicy" name="CyanogenMod/android_external_checkpolicy" remote="github" revision="cm-10.1" />
-  <project path="external/chromium" name="ParanoidAndroid/android_external_chromium" remote="github" revision="jellybean" />
+  <project path="external/chromium" name="ParanoidZTE/android_external_chromium" remote="github" revision="pa-cm-10.1" />
   <project path="external/chromium-trace" name="CyanogenMod/android_external_chromium-trace" remote="github" revision="cm-10.1" />
   <project path="external/cibu-fonts" name="CyanogenMod/android_external_cibu-fonts" remote="github" revision="cm-10.1" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" remote="github" revision="cm-10.1" />
@@ -66,7 +66,7 @@
   <project path="external/dexmaker" name="CyanogenMod/android_external_dexmaker" remote="github" revision="cm-10.1" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" remote="github" revision="cm-10.1" />
   <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" remote="github" revision="cm-10.1" />
-  <project path="external/doclava" name="ParanoidAndroid/android_external_doclava" remote="github" revision="jellybean" />
+  <project path="external/doclava" name="ParanoidZTE/android_external_doclava" remote="github" revision="pa-cm-10.1" />
   <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" remote="github" revision="cm-10.1" />
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" remote="github" revision="cm-10.1" />
   <project path="external/easymock" name="CyanogenMod/android_external_easymock" remote="github" revision="cm-10.1" />
@@ -219,7 +219,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/telephony" name="ParanoidZTE/android_frameworks_opt_telephony" remote="github" revision="pa-cm-10.1"  />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
-  <project path="frameworks/rs" name="ParanoidAndroid/android_frameworks_rs" remote="github" revision="jellybean" />
+  <project path="frameworks/rs" name="ParanoidZTE/android_frameworks_rs" remote="github" revision="pa-cm-10.1" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
@@ -254,23 +254,23 @@
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
-   <project path="packages/apps/Browser" name="ParanoidAndroid/android_packages_apps_Browser" remote="github" revision="jellybean" />
+  <project path="packages/apps/Browser" name="ParanoidZTE/android_packages_apps_Browser" remote="github" revision="pa-cm-10.1" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="ParanoidZTE/android_packages_apps_Contacts" remote="github" revision="pa-cm-10.1" />
-  <project path="packages/apps/DeskClock" name="ParanoidAndroid/android_packages_apps_DeskClock" remote="github" revision="jellybean" />
+  <project path="packages/apps/DeskClock" name="ParanoidZTE/android_packages_apps_DeskClock" remote="github" revision="pa-cm-10.1" />
   <project path="packages/apps/Email2" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher2" name="ParanoidAndroid/android_packages_apps_Launcher2" remote="github" revision="jellybean" />
+  <project path="packages/apps/Launcher2" name="ParanoidZTE/android_packages_apps_Launcher2" remote="github" revision="pa-cm-10.1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/Mms" name="ParanoidAndroid/android_packages_apps_Mms" remote="github" revision="jellybean" />
+  <project path="packages/apps/Mms" name="ParanoidZTE/android_packages_apps_Mms" remote="github" revision="pa-cm-10.1" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
