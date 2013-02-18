@@ -364,7 +364,7 @@
   <project path="android" name="ParanoidZTE/android" remote="github" revision="pa-cm-10.1"/>
 
   <!-- Skate specific -->
-  <project path="device/zte/skate" name="C3C0/android_device_zte_skate" remote="github" revision="pa-cm-10.1" />
+  <project path="device/zte/skate" name="C3C0/android_device_zte_skate" remote="github" revision="rb-jb-mr1" />
   <project path="kernel/zte/skate" name="C3C0/zte_skate_35" remote="github" revision="cm-10.1" />
   <project path="vendor/zte/skate" name="C3C0/android_vendor_zte_skate" remote="github" revision="cm-10.1" />
 </manifest>
