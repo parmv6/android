@@ -1,15 +1,15 @@
-ParanoidAndroid for ZTE devices
+RootBox for ZTE devices
 ===============================
 
 Getting Started
 ---------------
 
-To get started with Android/CyanogenMod/ParanoidAndroid, you'll need to get
+To get started with RootBox, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the ParanoidZTE trees, use a command like this:
 
-    repo init -u git://github.com/ParanoidZTE/android.git -b <branch>
+    repo init -u git://github.com/ParanoidZTE/android.git -b rb-jb-mr1
 
 Then to sync up:
 
@@ -17,8 +17,8 @@ Then to sync up:
 
 Then to build:
 
-    ./rom-build <device>
+    ./build_rootbox.sh -device-
 
 Example to build for ZTE Skate:
 
-    ./rom-build skate
+    ./build_rootbox.sh skate
