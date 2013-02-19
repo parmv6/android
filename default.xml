@@ -361,7 +361,7 @@
 
   <project path="packages/wallpapers/SwagPapers" name="Root-Box/RootBox_wallpapers" remote="github" revision="jb-mr1" />
 
-  <project path="android" name="ParanoidZTE/android" remote="github" revision="pa-cm-10.1"/>
+  <project path="android" name="ParanoidZTE/android" remote="github" revision="rb-jb-mr1"/>
 
   <!-- Skate specific -->
   <project path="device/zte/skate" name="C3C0/android_device_zte_skate" remote="github" revision="rb-jb-mr1" />
