@@ -359,7 +359,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="cm-10.1" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" revision="cm-10.1" />
 
-  <project path="packages/wallpapers/SwagPapers" name="Root-Box/RootBox_wallpapers" remote="github" revision="jb-mr1" />
+  <project path="packages/wallpapers/RootBox" name="Root-Box/RootBox_wallpapers" remote="github" revision="jb-mr1" />
 
   <project path="android" name="ParanoidZTE/android" remote="github" revision="rb-jb-mr1"/>
 
