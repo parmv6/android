@@ -163,7 +163,7 @@
   <project path="external/replicaisland" name="CyanogenMod/android_external_replicaisland" remote="github" revision="cm-10.1" />
   <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" remote="github" revision="cm-10.1" />
   <project path="external/sepolicy" name="CyanogenMod/android_external_sepolicy" remote="github" revision="cm-10.1" />
-  <project path="external/skia" name="AOKP/external_skia" remote="github" revision="jb-mr1" />
+  <project path="external/skia" name="ParanoidZTE/external_skia" remote="github" revision="jb-mr1" />
   <project path="external/smali" name="CyanogenMod/android_external_smali" remote="github" revision="cm-10.1" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" remote="github" revision="cm-10.1" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" remote="github" revision="cm-10.1" />
