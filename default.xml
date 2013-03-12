@@ -24,7 +24,7 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" revision="cm-10.1" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="cm-10.1" />
-  <project path="development" name="CyanogenMod/android_development" remote="github" revision="cm-10.1" />
+  <project path="development" name="ParanoidZTE/android_development" remote="github" revision="cm-10.1" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="github" revision="cm-10.1" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" remote="github" revision="cm-10.1" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" remote="github" revision="cm-10.1" groups="device" />
