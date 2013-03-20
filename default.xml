@@ -259,6 +259,7 @@
   <project path="packages/apps/Contacts" name="Root-Box/packages_apps_Contacts" remote="github" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="Root-Box/packages_apps_DeskClock" remote="github" revision="jb-mr1" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="cm-10.1" />
+  <project path="packages/apps/Effem" name="grigorig/android_packages_apps_Effem" remote="github" revision="master" />
   <project path="packages/apps/Email2" name="Root-Box/packages_apps_Email" remote="github" revision="jb-mr1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
