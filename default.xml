@@ -264,7 +264,7 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="ParanoidZTE/android_packages_apps_Contacts" remote="github" revision="pa-cm-10.1" />
   <project path="packages/apps/DeskClock" name="ParanoidZTE/android_packages_apps_DeskClock" remote="github" revision="pa-cm-10.1" />
-  <project path="packages/apps/Effem" name="grigorig/android_packages_apps_Effem" remote="github" revision="master" />
+  <project path="packages/apps/Effem" name="ParanoidZTE/android_packages_apps_Effem" remote="github" revision="master" />
   <project path="packages/apps/Email2" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
