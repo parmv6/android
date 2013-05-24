@@ -1,4 +1,4 @@
-ParanoidAndroid for ZTE Blade
+ParanoidAndroid for ZTE devices
 ===============================
 
 Getting Started
@@ -7,9 +7,9 @@ Getting Started
 To get started with Android/CyanogenMod/ParanoidAndroid, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the Parmv6 trees, use a command like this:
+To initialize your local repository using the ParanoidZTE trees, use a command like this:
 
-    repo init -u git://github.com/parmv6/android.git -b pa-cm-10.1
+    repo init -u git://github.com/ParanoidZTE/android.git -b <branch>
 
 Then to sync up:
 
@@ -17,6 +17,8 @@ Then to sync up:
 
 Then to build:
 
-    ./rom-build blade
+    ./rom-build <device>
 
+Example to build for ZTE Skate:
 
+    ./rom-build skate
