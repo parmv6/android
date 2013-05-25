@@ -373,6 +373,6 @@
 
   <!-- Device -->
     <project path="device/zte/blade" name="parmv6/android_device_zte_blade" remote="github" revision="cm-10.1" />
-    <project path="kernel/zte/zte-kernel-msm7x27" name="parmv6/zte-kernel-msm7x27" remote="github" revision="cm-10.1" />
+    <project path="kernel/zte/zte-kernel-msm7x27" name="parmv6/zte-kernel-msm7x27" remote="github" revision="variant" />
     <project path="vendor/zte" name="KonstaT/proprietary_vendor_zte" remote="github" revision="cm-10.1" />
 </manifest>
