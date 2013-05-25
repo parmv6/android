@@ -350,7 +350,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" remote="github" revision="cm-10.1" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" revision="cm-10.1" />
-  <project path="system/core" name="legaCyMod/android_system_core" remote="github" revision="cm-10.1"  />
+  <project path="system/core" name="parmv6/android_system_core" remote="github" revision="pa-cm-10.1"  />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="cm-10.1" />
   <project path="system/media" name="CyanogenMod/android_system_media" remote="github" revision="cm-10.1" />
   <project path="system/netd" name="legaCyMod/android_system_netd" remote="github" revision="cm-10.1" />
