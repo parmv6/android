@@ -30,7 +30,7 @@
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" remote="github" revision="cm-10.1" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" revision="cm-10.1" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="24f433e4412cd68cbcbfebb17597f0a631a00dfe" />
+  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="cm-10.1" />
   <project path="development" name="parmv6/android_development" remote="github" revision="cm-10.1" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="github" revision="cm-10.1" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" remote="github" revision="cm-10.1" />
@@ -286,7 +286,7 @@
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="ParanoidAndroid/android_packages_apps_PackageInstaller" remote="github" revision="jellybean" />
   <project path="packages/apps/ParanoidWallpapers" name="ParanoidAndroid/android_packages_apps_ParanoidWallpapers" remote="github" revision="jellybean" />
-  <project path="packages/apps/Phone" name="ParanoidAndroid/android_packages_apps_Phone" remote="github" revision="jellybean" />
+  <project path="packages/apps/Phone" name="parmv6/android_packages_apps_Phone" remote="github" revision="pa-cm-10.1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
