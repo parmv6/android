@@ -22,7 +22,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" revision="cm-10.1" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" remote="github" revision="cm-10.1" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" revision="cm-10.1" />
-  <project path="cts" name="platform/cts" />
+  <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="cm-10.1" />
   <project path="development" name="CyanogenMod/android_development" remote="github" revision="cm-10.1" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="github" revision="cm-10.1" />
@@ -353,7 +353,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" remote="github" revision="cm-10.1" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" remote="github" revision="cm-10.1" />
-  <project path="vendor/rootbox" name="Root-Box/vendor_rootbox" remote="github" revision="jb-mr1" />
+  <project path="vendor/rootbox" name="parmv6/vendor_rootbox" remote="github" revision="rb-jb-mr1" />
 
   <project path="rootbox" name="Root-Box/buildscripts" remote="github" revision="jb-mr1" >
     <copyfile src="build_all.sh" dest="build_all.sh" />
