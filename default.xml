@@ -114,7 +114,7 @@
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" remote="github" revision="cm-10.1" />
   <project path="external/liblzf" name="CyanogenMod/android_external_liblzf" remote="github" revision="cm-10.1" />
   <project path="external/libmtp" name="CyanogenMod/android_external_libmtp" remote="github" revision="cm-10.1" />
-  <project path="external/libncurses" name="legaCyMod/android_external_libncurses" remote="github" revision="cm-10.1" />
+  <project path="external/libncurses" name="parmv6/android_external_libncurses" remote="github" revision="pa-cm-10.1" />
   <project path="external/libnfc-nci" name="CyanogenMod/android_external_libnfc-nci" remote="github" revision="cm-10.1" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" remote="github" revision="cm-10.1" />
   <project path="external/libnl-headers" name="CyanogenMod/android_external_libnl-headers" remote="github" revision="cm-10.1" />
