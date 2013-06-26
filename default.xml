@@ -278,6 +278,7 @@
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project name="Root-Box/packages_apps_PackageInstaller" path="packages/apps/PackageInstaller" remote="github" revision="jb-mr1" />
   <project path="packages/apps/Phone" name="Root-Box/packages_apps_Phone" remote="github" revision="jb-mr1" />
+  <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="github" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
