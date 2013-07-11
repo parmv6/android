@@ -369,7 +369,7 @@
   <project name="AOKP/vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" remote="github" revision="jb-mr1" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" revision="cm-10.1" />
 
-  <project path="packages/wallpapers/RootBoxPapers" name="RootBox_wallpapers" remote="rootbox" revision="jb-mr1" />
+  <project path="packages/wallpapers/RootBoxPapers" name="RootBox_wallpapers" remote="github" revision="jb-mr1" />
 
   <project path="android" name="parmv6/android" remote="github" revision="rb-jb-mr1"/>
 
