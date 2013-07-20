@@ -261,6 +261,7 @@
   <project path="packages/apps/Camera" name="Root-Box/packages_apps_Camera" remote="github" revision="jb-mr1" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
+  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="github" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="Root-Box/packages_apps_Contacts" remote="github" revision="jb-mr1" />
   <project path="packages/apps/DeskClock" name="Root-Box/packages_apps_DeskClock" remote="github" revision="jb-mr1" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="cm-10.1" />
