@@ -180,7 +180,7 @@
   <project path="external/smali" name="CyanogenMod/android_external_smali" remote="github" revision="cm-10.1" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" remote="github" revision="cm-10.1" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" remote="github" revision="cm-10.1" />
-  <project path="external/koush/Superuser" name="koush/Superuser" remote="github" revision="master" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" remote="github" revision="cm-10.1" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="github" revision="cm-10.1" />
   <project path="external/srec" name="CyanogenMod/android_external_srec" remote="github" revision="cm-10.1" />
   <project path="external/srtp" name="CyanogenMod/android_external_srtp" remote="github" revision="cm-10.1" />
