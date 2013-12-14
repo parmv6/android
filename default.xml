@@ -23,7 +23,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="androidarmv6/android_build" remote="github" revision="cm-10.2" >
+  <project path="build" name="ParanoidAndroid/android_build" remote="github" revision="jb43-legacy" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" remote="github" revision="cm-10.2" groups="pdk" />
@@ -257,7 +257,7 @@
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" remote="github" revision="cm-10.2" />
   <project path="frameworks/opt/datetimepicker" name="CyanogenMod/android_frameworks_opt_datetimepicker" remote="github" revision="cm-10.2" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" remote="github" revision="cm-10.2" />
-  <project path="frameworks/opt/hardware" name="CyanogenMod/android_frameworks_opt_hardware" remote="github" revisoin="cm-10.2" />
+  <project path="frameworks/opt/hardware" name="CyanogenMod/android_frameworks_opt_hardware" remote="github" revision="cm-10.2" />
   <project path="frameworks/opt/inputmethodcommon" name="CyanogenMod/android_frameworks_opt_inputmethodcommon" remote="github" revision="cm-10.2" />
   <project path="frameworks/opt/mailcommon" name="CyanogenMod/android_frameworks_opt_mailcommon" remote="github" revision="cm-10.2" />
   <project path="frameworks/opt/mms" name="CyanogenMod/android_frameworks_opt_mms" remote="github" revision="cm-10.2" />
