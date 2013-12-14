@@ -221,7 +221,7 @@
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" remote="github" revision="cm-10.2" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" remote="github" revision="cm-10.2" groups="pdk" />
-  <project path="frameworks/ex" name="CyanogenMod/android__frameworks_ex" remote="github" revision="cm-10.2" />
+  <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" remote="github" revision="cm-10.2" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" remote="github" revision="cm-10.2" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" remote="github" revision="cm-10.2" />
   <project path="frameworks/native" name="legaCyMod/android_frameworks_native" remote="github" revision="cm-10.2" />
@@ -240,7 +240,7 @@
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="github" revision="cm-10.2" />
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" remote="github" revision="cm-10.2" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" remote="github" revision="cm-10.2" />
-  <project path="frameworks/testing" name="CyanogenMod/android__frameworks_testing" remote="github" revision="cm-10.2" />
+  <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" remote="github" revision="cm-10.2" />
   <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" remote="github" revision="cm-10.2" />
   <project path="frameworks/webview" name="CyanogenMod/android_frameworks_webview" remote="github" revision="cm-10.2" />
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" remote="github" revision="cm-10.2" />
@@ -271,18 +271,18 @@
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Camera" name="platform_packages_apps_Camera" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/ContactsCommon" name="ParanoidAndroid/android_packages_apps_ContactsCommon" remote="github" revision="jb43-legacy" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" remote="cm" revision="cm-10.2" />
-  <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Email" name="android_packages_apps_Email" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Gallery" name="android_packages_apps_Gallery" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="ParanoidAndroid/android_packages_apps_Launcher2" remote="github" revision="jb43" />
@@ -307,7 +307,7 @@
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
-    <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" remote="cm" revision="cm-10.2" />
+    <project path="packages/apps/VoiceDialer" name="android_packages_apps_VoiceDialer" remote="cm" revision="cm-10.2" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="androidarmv6/android_packages_inputmethods_LatinIME" remote="github" revision="cm-10.2"/>
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
@@ -388,7 +388,7 @@
   <project path="vendor/cm" name="legaCyMod/android_vendor_cm" remote="github" revision="cm-10.2" />
   <project path="vendor/pa" name="parmv6/android_vendor_pa" remote="github" revision="pa-cm-10.2" />
 
-  <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jb43-legacy" >
+  <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jb43" >
     <copyfile src="build.sh" dest="rom-build.sh" />
   </project>
 
