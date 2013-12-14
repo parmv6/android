@@ -414,7 +414,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/cm" name="legaCyMod/android_vendor_cm" remote="github" revision="cm-10.2" />
-  <project path="vendor/pa" name="parmv6/android_vendor_pa" remote="github" revision="pa-cm-10.2" />
+  <project path="vendor/pa" name="ParanoidAndroid/android_vendor_pa" remote="github" revision="jb43-legacy" />
 
   <project path="paranoid" name="ParanoidAndroid/paranoid" remote="github" revision="jb43" >
     <copyfile src="build.sh" dest="rom-build.sh" />
