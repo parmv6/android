@@ -502,6 +502,5 @@
   <project path="vendor/cm" name="androidarmv6/android_vendor_cm">
     <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" />
   </project>
-  <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <project path="vendor/google" name="androidarmv6/android_vendor_google" />
 </manifest>
