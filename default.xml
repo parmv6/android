@@ -292,8 +292,6 @@
   <project path="external/webkit" name="androidarmv6/android_external_webkit" />
   <project path="external/webp" name="LineageOS/android_external_webp" />
   <project path="external/webrtc" name="LineageOS/android_external_webrtc" groups="pdk" />
-  <project path="external/whispersystems/TextSecure" name="LineageOS/android_external_whispersystems_TextSecure" />
-  <project path="external/whispersystems/WhisperPush" name="LineageOS/android_external_whispersystems_WhisperPush" />
   <project path="external/wpa_supplicant_8" name="androidarmv6/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/xmlwriter" name="LineageOS/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" name="LineageOS/android_external_xmp_toolkit" />
